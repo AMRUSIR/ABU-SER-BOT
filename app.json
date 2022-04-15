@@ -1,0 +1,29 @@
+{
+"name": "ABU-SER-BOT",
+  "description": "Abu whatsapp bot by Afx-Abu",
+  "repository": "https://github.com/Afx-Abu/Abu_ser_v1",
+  "logo": "https://i.imgur.com/nLUMShe.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/nodejs"
+
+        },
+
+        {
+
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+        },
+
+        {
+
+            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+
+        }
+
+    ]
+}
