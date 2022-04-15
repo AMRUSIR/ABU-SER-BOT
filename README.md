@@ -17,8 +17,6 @@
 <h3 align="center">Developers</h3>
 <p align="center">
   <a href="https://github.com/Afx-Abu"><img src="https://github.com/Afx-Abu.png" height="128" width="128" /></a>
-  <a href="https://github.com/AMRUSIR"><img src="https://github.com/AMRUSIR.png" height="128" width="128" /></a>
-  <a href="https://github.com/RIPPER-SER"><img src="https://github.com/REPPER-SER.png" height="128" width="128" /></a>
 </p>
 
 <p align="center">
