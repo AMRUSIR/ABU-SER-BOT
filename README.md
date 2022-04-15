@@ -13,7 +13,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Afx-Abu/ABU-SER-V1?v=1)
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abu_ser_v1/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Afx-Abu/ABU-SER-BOT/)
 <h3 align="center">Developers</h3>
 <p align="center">
   <a href="https://github.com/Afx-Abu"><img src="https://github.com/Afx-Abu.png" height="128" width="128" /></a>
